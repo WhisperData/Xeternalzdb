@@ -1,1 +1,1504 @@
 
+[
+  {
+    "username": "www",
+    "password": "x",
+    "expiredDate": "99999-09-99",
+    "role": "owner",
+    "lastSend": 1767976892668,
+    "uid": "CFA5322F4EE3E0B2"
+  },
+  {
+    "username": "ww",
+    "password": "ww688",
+    "role": "member",
+    "expiredDate": "2028-10-05",
+    "lastSend": 1768057315510,
+    "uid": "65A7293A6F02AB2F"
+  },
+  {
+    "username": "Rinzzz",
+    "password": "2412",
+    "role": "moderator",
+    "expiredDate": "2300-06-27",
+    "uid": "9339CBCE62033C0D",
+    "lastOtpSend": 1791775775856
+  },
+  {
+    "username": "SENAJA",
+    "password": "SENAJA857",
+    "role": "high_role",
+    "expiredDate": "2029-06-07",
+    "uid": "B1B14B67A1B1B4B3",
+    "lastSend": 1790323650557
+  },
+  {
+    "username": "nalzz",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2054-01-27",
+    "uid": "CD70DAE1E6ED8198"
+  },
+  {
+    "username": "Azz",
+    "password": "001",
+    "role": "reseller",
+    "expiredDate": "2300-06-27",
+    "uid": "2F39A1EC74C4AB32"
+  },
+  {
+    "username": "RISKIYASTRREAL1",
+    "password": "1321",
+    "role": "member",
+    "expiredDate": "2054-01-27",
+    "uid": "46BE44047BABD13E",
+    "lastSend": 1789660004478,
+    "lastOtpSend": 1789660015182
+  },
+  {
+    "username": "Ryuoo",
+    "password": "911",
+    "role": "owner",
+    "expiredDate": "4764-08-08",
+    "uid": "3C6E7A82DBDF30A8",
+    "lastOtpSend": 1790182056728,
+    "lastSend": 1790182131086
+  },
+  {
+    "username": "K",
+    "password": "99",
+    "role": "reseller",
+    "expiredDate": "2029-06-07",
+    "uid": "FE2E089B34BF219E"
+  },
+  {
+    "username": "ddrrn",
+    "password": "12",
+    "role": "moderator",
+    "expiredDate": "2026-12-20",
+    "uid": "743141A97E09A3A5"
+  },
+  {
+    "username": "patirr",
+    "password": "123",
+    "role": "admin",
+    "expiredDate": "2300-06-27",
+    "uid": "C2FDA32EA0BBED15"
+  },
+  {
+    "username": "raps",
+    "password": "1",
+    "role": "moderator",
+    "expiredDate": "2054-01-27",
+    "uid": "C23D4EA720FF8557"
+  },
+  {
+    "username": "rakabapuk",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-09-13",
+    "uid": "50658F60F12E4116",
+    "lastSend": 1789231591761
+  },
+  {
+    "username": "PinnnN",
+    "password": "10121100",
+    "role": "high_role",
+    "expiredDate": "2029-06-07",
+    "uid": "A2D0ED56A12C20DB",
+    "lastOtpSend": 1789233544642,
+    "lastSend": 1792914359045
+  },
+  {
+    "username": "ZALL_STORE",
+    "password": "kukang",
+    "role": "moderator",
+    "expiredDate": "2029-06-07",
+    "uid": "831A16AEFC201A41",
+    "lastOtpSend": 1791271262620
+  },
+  {
+    "username": "farras",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "4764-08-08",
+    "uid": "B525ED6C76FCE4F0",
+    "lastSend": 1790924896583
+  },
+  {
+    "username": "wildan",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-09-14",
+    "uid": "006070A522A8F0F3"
+  },
+  {
+    "username": "XerooFexx",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-09-19",
+    "uid": "729DE98E1B960375",
+    "lastSend": 1789430466624,
+    "lastOtpSend": 1789630277128
+  },
+  {
+    "username": "yudzzz",
+    "password": "999",
+    "role": "owner",
+    "expiredDate": "2054-01-27",
+    "uid": "D70D3E6D0CF6D619",
+    "lastSend": 1792857094205
+  },
+  {
+    "username": "wahyu",
+    "password": "u7",
+    "role": "member",
+    "expiredDate": "2029-06-07",
+    "uid": "3D5507F40433C2A4"
+  },
+  {
+    "username": "dwiky",
+    "password": "44",
+    "role": "member",
+    "expiredDate": "2054-01-27",
+    "uid": "B733D71423EBC3A5",
+    "lastOtpSend": 1789258309578,
+    "lastSend": 1789281550490
+  },
+  {
+    "username": "aryy",
+    "password": "(_)(_)==D",
+    "role": "admin",
+    "expiredDate": "2300-06-28",
+    "uid": "CB9AA46F31D15304"
+  },
+  {
+    "username": "Bgus",
+    "password": "7",
+    "role": "moderator",
+    "expiredDate": "2054-01-28",
+    "uid": "9E3A63B3BB7DBD1B"
+  },
+  {
+    "username": "nizzNotDev",
+    "password": "55123",
+    "role": "staff",
+    "expiredDate": "4764-08-09",
+    "uid": "8F0E7E09BE4705BD",
+    "lastSend": 1789378554886,
+    "lastOtpSend": 1789684547953
+  },
+  {
+    "username": "Vynzzz",
+    "password": "776",
+    "role": "staff",
+    "expiredDate": "2054-01-28",
+    "uid": "1962DE2D28B83558"
+  },
+  {
+    "username": "NEMO",
+    "password": "ZAKI123",
+    "role": "admin",
+    "expiredDate": "2054-01-28",
+    "uid": "835ED53A0A2B67A2"
+  },
+  {
+    "username": "agus",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-09-14",
+    "uid": "3B0FCD4BFE63754E"
+  },
+  {
+    "username": "zidanz14",
+    "password": "zidanz123",
+    "role": "admin",
+    "expiredDate": "2300-06-28",
+    "uid": "4D30541D1656C0BA",
+    "lastSend": 1792481774401
+  },
+  {
+    "username": "reyy",
+    "password": "99",
+    "role": "owner",
+    "expiredDate": "2054-01-28",
+    "uid": "9EC9B2C73C8AE013",
+    "lastOtpSend": 1789274463899
+  },
+  {
+    "username": "(_)(_)==D",
+    "password": "aryypwggalu",
+    "role": "admin",
+    "expiredDate": "2054-01-28",
+    "uid": "311CB0BB1829C5BA"
+  },
+  {
+    "username": "xyzam",
+    "password": "00",
+    "role": "reseller",
+    "expiredDate": "2300-06-28",
+    "uid": "E2C2891A53BF7DE0",
+    "lastSend": 1789722566802,
+    "lastOtpSend": 1789291887440
+  },
+  {
+    "username": "RULZGG",
+    "password": "RULZGG",
+    "role": "member",
+    "expiredDate": "2300-06-28",
+    "uid": "56F10E9CCBAAE785",
+    "lastSend": 1790467074198,
+    "lastOtpSend": 1789372977013
+  },
+  {
+    "username": "Duu",
+    "password": "1",
+    "role": "moderator",
+    "expiredDate": "2054-01-28",
+    "uid": "AC18DE994688CF0C",
+    "lastSend": 1789434023231
+  },
+  {
+    "username": "Tuan Raff",
+    "password": "098098",
+    "role": "owner",
+    "expiredDate": "2026-10-13",
+    "uid": "3C5667624EF4DF47",
+    "lastOtpSend": 1789651830063
+  },
+  {
+    "username": "user77",
+    "password": "user77702",
+    "role": "high_role",
+    "expiredDate": "2029-06-08",
+    "uid": "7EA7967833658479",
+    "lastSend": 1790267889689
+  },
+  {
+    "username": "pisz",
+    "password": "1122",
+    "role": "staff",
+    "expiredDate": "2054-01-28",
+    "uid": "9BBAFC6E2899DA68"
+  },
+  {
+    "username": "syahdud",
+    "password": "33",
+    "role": "reseller",
+    "expiredDate": "2300-06-28",
+    "uid": "943EDB22FE1587D0",
+    "lastOtpSend": 1789298775646,
+    "lastSend": 1792748337287
+  },
+  {
+    "username": "Dude",
+    "password": "Dude72",
+    "role": "high_role",
+    "expiredDate": "2029-06-08",
+    "uid": "D794AE50F9306144",
+    "lastSend": 1790064172118
+  },
+  {
+    "username": "farel",
+    "password": "11",
+    "role": "member",
+    "expiredDate": "2026-09-14",
+    "uid": "49F8D9109773804E",
+    "lastOtpSend": 1789292991925,
+    "lastSend": 1789293183299
+  },
+  {
+    "username": "park",
+    "password": "park01",
+    "role": "owner",
+    "expiredDate": "2029-06-08",
+    "lastSend": 1792742809115,
+    "lastOtpSend": 1792374016427
+  },
+  {
+    "username": "andyy",
+    "password": "1234",
+    "role": "moderator",
+    "expiredDate": "+029405-10-08",
+    "lastOtpSend": 1791123854154,
+    "lastSend": 1790240712352
+  },
+  {
+    "username": "Leonz",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2029-06-08",
+    "lastOtpSend": 1789298456069
+  },
+  {
+    "username": "leon",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2029-06-08"
+  },
+  {
+    "username": "manz ganteng",
+    "password": "01",
+    "role": "member",
+    "expiredDate": "2026-09-14",
+    "lastSend": 1789304805441
+  },
+  {
+    "username": "Sorakecee",
+    "password": "2013",
+    "role": "reseller",
+    "expiredDate": "2040-05-22",
+    "lastSend": 1792584505954
+  },
+  {
+    "username": "Mahdi",
+    "password": "Mahdi70",
+    "role": "reseller",
+    "expiredDate": "2029-06-08",
+    "lastSend": 1789311679581
+  },
+  {
+    "username": "ALLXY",
+    "password": "ALLXY407",
+    "role": "high_role",
+    "expiredDate": "2029-06-08",
+    "lastSend": 1792673035988
+  },
+  {
+    "username": "BintangCogan12",
+    "password": "19",
+    "role": "member",
+    "expiredDate": "2026-10-13",
+    "lastOtpSend": 1789310833010,
+    "lastSend": 1789813077677
+  },
+  {
+    "username": "Ryan",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2054-01-29"
+  },
+  {
+    "username": "iky4you",
+    "password": "iky55",
+    "role": "reseller",
+    "expiredDate": "2054-01-29"
+  },
+  {
+    "username": "Nathan",
+    "password": "Nathan728",
+    "role": "reseller",
+    "expiredDate": "2029-06-09",
+    "lastSend": 1789568509581
+  },
+  {
+    "username": "kingjt",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-09-15",
+    "lastSend": 1789378080089
+  },
+  {
+    "username": "jek",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-09-15"
+  },
+  {
+    "username": "Neza",
+    "password": "Neza320",
+    "role": "member",
+    "expiredDate": "2029-06-09"
+  },
+  {
+    "username": "cel",
+    "password": "11",
+    "role": "moderator",
+    "expiredDate": "2029-06-09",
+    "lastOtpSend": 1789393695125
+  },
+  {
+    "username": "chiiko",
+    "password": "zixszz01",
+    "role": "admin",
+    "expiredDate": "2300-06-29",
+    "lastOtpSend": 1789393665295
+  },
+  {
+    "username": "Rezz",
+    "password": "321",
+    "role": "admin",
+    "expiredDate": "2300-06-29"
+  },
+  {
+    "username": "Zamz",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2054-01-29",
+    "lastOtpSend": 1789666226341
+  },
+  {
+    "username": "Senjuuuu",
+    "password": "17629",
+    "role": "member",
+    "expiredDate": "2054-01-30",
+    "lastSend": 1789476195767
+  },
+  {
+    "username": "zxca",
+    "password": "zxca51",
+    "role": "high_role",
+    "expiredDate": "2029-06-10",
+    "lastOtpSend": 1792332914177,
+    "lastSend": 1792934092303
+  },
+  {
+    "username": "zamzskibidi",
+    "password": "52",
+    "role": "staff",
+    "expiredDate": "2029-06-10"
+  },
+  {
+    "username": "SadPeople",
+    "password": "Sad2233",
+    "role": "staff",
+    "expiredDate": "2300-06-30",
+    "lastOtpSend": 1791381247212,
+    "lastSend": 1790172806974
+  },
+  {
+    "username": "RizzX",
+    "password": "1980",
+    "role": "staff",
+    "expiredDate": "4764-08-11"
+  },
+  {
+    "username": "vynz",
+    "password": "gvyn",
+    "role": "admin",
+    "expiredDate": "2300-06-30",
+    "lastSend": 1792646340751,
+    "lastOtpSend": 1790774903753
+  },
+  {
+    "username": "nsynn",
+    "password": "99",
+    "role": "owner",
+    "expiredDate": "2300-06-30"
+  },
+  {
+    "username": "jumanto",
+    "password": "77",
+    "role": "member",
+    "expiredDate": "2054-01-31",
+    "lastSend": 1790352101719,
+    "lastOtpSend": 1790174956579
+  },
+  {
+    "username": "Gustzy",
+    "password": "Gustzy1",
+    "role": "reseller",
+    "expiredDate": "2054-01-31"
+  },
+  {
+    "username": "sky",
+    "password": "sky564",
+    "role": "member",
+    "expiredDate": "2029-06-12",
+    "lastOtpSend": 1789711537690,
+    "lastSend": 1789798841766
+  },
+  {
+    "username": "malzz",
+    "password": "1212",
+    "role": "member",
+    "expiredDate": "2026-09-18",
+    "lastOtpSend": 1789646685490
+  },
+  {
+    "username": "Dizy",
+    "password": "15januari2011",
+    "role": "member",
+    "expiredDate": "2054-02-01"
+  },
+  {
+    "username": "Clam",
+    "password": "Clam218",
+    "role": "admin",
+    "expiredDate": "2029-06-12",
+    "lastSend": 1789655720519,
+    "lastOtpSend": 1789716239517
+  },
+  {
+    "username": "hafi",
+    "password": "hafi baik",
+    "role": "admin",
+    "expiredDate": "2054-02-02",
+    "lastSend": 1789812579670,
+    "lastOtpSend": 1789702252971
+  },
+  {
+    "username": "kafzx",
+    "password": "GYYZN1",
+    "role": "high_role",
+    "expiredDate": "2029-06-13",
+    "lastSend": 1791011434554,
+    "lastOtpSend": 1791011345828
+  },
+  {
+    "username": "m4rzx",
+    "password": "444",
+    "role": "owner",
+    "expiredDate": "2054-02-02"
+  },
+  {
+    "username": "hamzyy",
+    "password": "999",
+    "role": "owner",
+    "expiredDate": "2054-02-02"
+  },
+  {
+    "username": "Clamp",
+    "password": "Clamp751",
+    "role": "high_role",
+    "expiredDate": "2029-06-13",
+    "lastSend": 1792399042499,
+    "lastOtpSend": 1792901884497
+  },
+  {
+    "username": "MasRaff",
+    "password": "MasRaff750",
+    "role": "high_role",
+    "expiredDate": "2029-06-13",
+    "lastOtpSend": 1792353731287,
+    "lastSend": 1791245319864
+  },
+  {
+    "username": "kesar",
+    "password": "kesar123",
+    "role": "owner",
+    "expiredDate": "2026-09-20",
+    "lastSend": 1789777789326,
+    "lastOtpSend": 1789777401543
+  },
+  {
+    "username": "viaa",
+    "password": "viaa098",
+    "role": "owner",
+    "expiredDate": "2300-07-04"
+  },
+  {
+    "username": "Rendy",
+    "password": "Rendy98",
+    "role": "high_role",
+    "expiredDate": "2029-06-14",
+    "lastSend": 1789811817901
+  },
+  {
+    "username": "kontolayam",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-09-20"
+  },
+  {
+    "username": "Vin",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2029-06-15",
+    "lastOtpSend": 1791121547133
+  },
+  {
+    "username": "NIKTPN",
+    "password": "121011",
+    "role": "admin",
+    "expiredDate": "2054-02-04",
+    "lastSend": 1791204455515,
+    "lastOtpSend": 1792902897503
+  },
+  {
+    "username": "Fahri2013",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2054-02-04",
+    "lastOtpSend": 1791553717104
+  },
+  {
+    "username": "tayoo",
+    "password": "tayoo585",
+    "role": "member",
+    "expiredDate": "2029-06-17"
+  },
+  {
+    "username": "Manx",
+    "password": "Manx243",
+    "role": "staff",
+    "expiredDate": "2029-06-17"
+  },
+  {
+    "username": "Laranzxx",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2300-07-07",
+    "lastOtpSend": 1790068492380
+  },
+  {
+    "username": "Sopo",
+    "password": "Sopo294",
+    "role": "high_role",
+    "expiredDate": "2029-06-17",
+    "lastSend": 1790259981885
+  },
+  {
+    "username": "ryeen",
+    "password": "ryeen",
+    "role": "member",
+    "expiredDate": "2026-09-23",
+    "lastSend": 1790079966537
+  },
+  {
+    "username": "RizzXx",
+    "password": "RizzXx834",
+    "role": "moderator",
+    "expiredDate": "2029-06-17"
+  },
+  {
+    "username": "user7",
+    "password": "user7652",
+    "role": "high_role",
+    "expiredDate": "2029-06-17",
+    "lastSend": 1792826192294
+  },
+  {
+    "username": "hanzkalsel",
+    "password": "hanz1",
+    "role": "member",
+    "expiredDate": "2026-09-24",
+    "lastSend": 1790175100918,
+    "lastOtpSend": 1790175496944
+  },
+  {
+    "username": "Sibro",
+    "password": "2008",
+    "role": "high_role",
+    "expiredDate": "2029-06-18",
+    "lastSend": 1790249303161,
+    "lastOtpSend": 1790170686135
+  },
+  {
+    "username": "aksa",
+    "password": "123",
+    "role": "reseller",
+    "expiredDate": "2029-06-18"
+  },
+  {
+    "username": "dres x kamil",
+    "password": "cya",
+    "role": "moderator",
+    "expiredDate": "2026-12-31",
+    "lastOtpSend": 1790206257992,
+    "lastSend": 1790226085974
+  },
+  {
+    "username": "Sanz",
+    "password": "123",
+    "role": "admin",
+    "expiredDate": "2300-07-09"
+  },
+  {
+    "username": "Kaicho",
+    "password": "Kaicho74",
+    "role": "staff",
+    "expiredDate": "2029-06-19",
+    "lastSend": 1790241404717
+  },
+  {
+    "username": "Dimzx",
+    "password": "22",
+    "role": "reseller",
+    "expiredDate": "2036-09-21",
+    "lastOtpSend": 1790250953825,
+    "lastSend": 1790314652525
+  },
+  {
+    "username": "ranzy",
+    "password": "ranzy",
+    "role": "admin",
+    "expiredDate": "2054-02-08"
+  },
+  {
+    "username": "LX",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2300-07-10",
+    "lastOtpSend": 1790764834937
+  },
+  {
+    "username": "Xin",
+    "password": "110111",
+    "role": "high_role",
+    "expiredDate": "2029-06-20",
+    "lastSend": 1792765443618
+  },
+  {
+    "username": "RAMA",
+    "password": "RAMA12",
+    "role": "member",
+    "expiredDate": "2027-01-03"
+  },
+  {
+    "username": "ambatukam",
+    "password": "dikz",
+    "role": "reseller",
+    "expiredDate": "2029-06-20"
+  },
+  {
+    "username": "DenzZ",
+    "password": "888",
+    "role": "member",
+    "expiredDate": "2054-02-10",
+    "lastOtpSend": 1791379043150,
+    "lastSend": 1790483993434
+  },
+  {
+    "username": "KengzzX5",
+    "password": "182010",
+    "role": "owner",
+    "expiredDate": "2300-07-12"
+  },
+  {
+    "username": "REVZ",
+    "password": "REVZ123",
+    "role": "member",
+    "expiredDate": "2026-09-28",
+    "lastSend": 1790492634687
+  },
+  {
+    "username": "Scarlet",
+    "password": "2131",
+    "role": "staff",
+    "expiredDate": "+029405-10-22"
+  },
+  {
+    "username": "Andrew",
+    "password": "Andrew282",
+    "role": "high_role",
+    "expiredDate": "2029-06-22",
+    "lastSend": 1792920582978,
+    "lastOtpSend": 1791381044958
+  },
+  {
+    "username": "SIGMAX",
+    "password": "sigmax11",
+    "role": "moderator",
+    "expiredDate": "2300-07-12"
+  },
+  {
+    "username": "Popz",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-02-11"
+  },
+  {
+    "username": "PRIASOLO",
+    "password": "97",
+    "role": "admin",
+    "expiredDate": "2054-02-11",
+    "lastSend": 1790553329587
+  },
+  {
+    "username": "Scarlet2",
+    "password": "Scarlet2282",
+    "role": "high_role",
+    "expiredDate": "2029-06-22"
+  },
+  {
+    "username": "whisper",
+    "password": "whisper457",
+    "role": "high_role",
+    "expiredDate": "2029-06-24",
+    "lastSend": 1792668707281,
+    "lastOtpSend": 1792287141573
+  },
+  {
+    "username": "sirwyuX",
+    "password": "sirwyuX26",
+    "role": "staff",
+    "expiredDate": "2029-06-25"
+  },
+  {
+    "username": "dimzganteng",
+    "password": "fefekjule",
+    "role": "member",
+    "expiredDate": "2026-10-01",
+    "lastSend": 1790767139229
+  },
+  {
+    "username": "Barz07",
+    "password": "123",
+    "role": "admin",
+    "expiredDate": "2573-02-23",
+    "lastSend": 1790863416221
+  },
+  {
+    "username": "Zamzz11",
+    "password": "akuanaksehat",
+    "role": "member",
+    "expiredDate": "2026-10-04",
+    "lastSend": 1791024033834,
+    "lastOtpSend": 1791004662450
+  },
+  {
+    "username": "Ami23",
+    "password": "Bonz67",
+    "role": "member",
+    "expiredDate": "2026-10-08",
+    "lastSend": 1791020370224,
+    "lastOtpSend": 1791015680013
+  },
+  {
+    "username": "athaa",
+    "password": "00",
+    "role": "owner",
+    "expiredDate": "+029405-10-28",
+    "lastOtpSend": 1791018915573
+  },
+  {
+    "username": "chayra",
+    "password": "1",
+    "role": "admin",
+    "expiredDate": "2026-11-03",
+    "lastSend": 1791450182665
+  },
+  {
+    "username": "Kafzx",
+    "password": "Kafzx770",
+    "role": "high_role",
+    "expiredDate": "2029-06-29",
+    "lastOtpSend": 1791205781142,
+    "lastSend": 1792926167098
+  },
+  {
+    "username": "Falzxx",
+    "password": "1",
+    "role": "moderator",
+    "expiredDate": "4764-08-30"
+  },
+  {
+    "username": "Fluxo",
+    "password": "Fluxo517",
+    "role": "admin",
+    "expiredDate": "2029-06-29"
+  },
+  {
+    "username": "Nugii",
+    "password": "22067",
+    "role": "reseller",
+    "expiredDate": "2300-07-19",
+    "lastOtpSend": 1792575631557,
+    "lastSend": 1792664302604
+  },
+  {
+    "username": "mark",
+    "password": "mark01",
+    "role": "owner",
+    "expiredDate": "2054-02-18"
+  },
+  {
+    "username": "niktpn",
+    "password": "niktpn789",
+    "role": "reseller",
+    "expiredDate": "2029-06-30"
+  },
+  {
+    "username": "aura",
+    "password": "1",
+    "role": "moderator",
+    "expiredDate": "2054-02-21"
+  },
+  {
+    "username": "fanz",
+    "password": "123",
+    "role": "moderator",
+    "expiredDate": "4764-09-02"
+  },
+  {
+    "username": "BANTAI",
+    "password": "HABIS",
+    "role": "moderator",
+    "expiredDate": "2027-01-05"
+  },
+  {
+    "username": "pero",
+    "password": "12345",
+    "role": "moderator",
+    "expiredDate": "2054-02-21"
+  },
+  {
+    "username": "hamzxyz",
+    "password": "hamzxyz732",
+    "role": "high_role",
+    "expiredDate": "2029-07-02",
+    "lastOtpSend": 1791385775422,
+    "lastSend": 1792927023386
+  },
+  {
+    "username": "hemz",
+    "password": "12345",
+    "role": "member",
+    "expiredDate": "2300-07-23",
+    "lastSend": 1791471673321
+  },
+  {
+    "username": "balz",
+    "password": "1010",
+    "role": "reseller",
+    "expiredDate": "2054-02-23"
+  },
+  {
+    "username": "Fatir",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2029-07-04",
+    "lastOtpSend": 1791724798521,
+    "lastSend": 1791560821654
+  },
+  {
+    "username": "danzxx",
+    "password": "danzxx420",
+    "role": "moderator",
+    "expiredDate": "2029-07-04",
+    "lastOtpSend": 1791561143720
+  },
+  {
+    "username": "WanYa",
+    "password": "201130",
+    "role": "reseller",
+    "expiredDate": "2054-02-24",
+    "lastOtpSend": 1791602441584
+  },
+  {
+    "username": "Danzz",
+    "password": "Danzz453",
+    "role": "high_role",
+    "expiredDate": "2029-07-05",
+    "lastSend": 1792918796875,
+    "lastOtpSend": 1792834534852
+  },
+  {
+    "username": "Zarr",
+    "password": "Zarr308",
+    "role": "high_role",
+    "expiredDate": "2029-07-05"
+  },
+  {
+    "username": "yuszzx",
+    "password": "1010",
+    "role": "owner",
+    "expiredDate": "2300-07-26"
+  },
+  {
+    "username": "Kipra",
+    "password": "777",
+    "role": "staff",
+    "expiredDate": "2029-07-06"
+  },
+  {
+    "username": "rafi",
+    "password": "777",
+    "role": "member",
+    "expiredDate": "2054-02-26"
+  },
+  {
+    "username": "KenrichCT",
+    "password": "KenrichCT514",
+    "role": "high_role",
+    "expiredDate": "2029-07-08",
+    "lastOtpSend": 1791898590492,
+    "lastSend": 1792938466102
+  },
+  {
+    "username": "vinzz",
+    "password": "234",
+    "role": "owner",
+    "expiredDate": "2029-07-08"
+  },
+  {
+    "username": "vinc",
+    "password": "9898",
+    "role": "staff",
+    "expiredDate": "2029-07-09",
+    "lastOtpSend": 1791946768381
+  },
+  {
+    "username": "vino1",
+    "password": "vino15",
+    "role": "member",
+    "expiredDate": "2029-07-09",
+    "lastSend": 1792479759520
+  },
+  {
+    "username": "fidz",
+    "password": "1122",
+    "role": "member",
+    "expiredDate": "2026-10-16",
+    "lastOtpSend": 1791965762026,
+    "lastSend": 1791966031495
+  },
+  {
+    "username": "bos",
+    "password": "bos165",
+    "role": "high_role",
+    "expiredDate": "2029-07-13",
+    "lastSend": 1792800129015
+  },
+  {
+    "username": "JOSUA STR",
+    "password": "josua2013",
+    "role": "high_role",
+    "expiredDate": "2029-07-13",
+    "lastSend": 1792932168931
+  },
+  {
+    "username": "Ballv",
+    "password": "Ballv376",
+    "role": "high_role",
+    "expiredDate": "2029-07-13",
+    "lastSend": 1792769231603
+  },
+  {
+    "username": "Jimmy",
+    "password": "16661",
+    "role": "member",
+    "expiredDate": "2026-10-19"
+  },
+  {
+    "username": "fluxoo",
+    "password": "fluxoo506",
+    "role": "high_role",
+    "expiredDate": "2029-07-14",
+    "lastSend": 1792675004173
+  },
+  {
+    "username": "member1",
+    "password": "rash_2024",
+    "role": "member",
+    "expiredDate": "2029-07-14"
+  },
+  {
+    "username": "member2",
+    "password": "rash_2026",
+    "role": "member",
+    "expiredDate": "2029-07-14",
+    "lastSend": 1792819243716
+  },
+  {
+    "username": "member3",
+    "password": "member3287",
+    "role": "member",
+    "expiredDate": "2029-07-14",
+    "lastSend": 1792590005824
+  },
+  {
+    "username": "member5",
+    "password": "Kiiplenger56",
+    "role": "member",
+    "expiredDate": "2029-07-14",
+    "lastOtpSend": 1792581294541,
+    "lastSend": 1792571093284
+  },
+  {
+    "username": "member4",
+    "password": "member4646",
+    "role": "member",
+    "expiredDate": "2029-07-14"
+  },
+  {
+    "username": "rapdd",
+    "password": "rapdd922",
+    "role": "member",
+    "expiredDate": "2026-11-18",
+    "lastSend": 1792845447109
+  },
+  {
+    "username": "rendy",
+    "password": "rendy32",
+    "role": "high_role",
+    "expiredDate": "2029-07-14",
+    "lastSend": 1792585140693
+  },
+  {
+    "username": "reyhan",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-05",
+    "lastSend": 1792930791882
+  },
+  {
+    "username": "Ambon",
+    "password": "Ambon782",
+    "role": "member",
+    "expiredDate": "2026-11-18"
+  },
+  {
+    "username": "jeppx",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-26"
+  },
+  {
+    "username": "gacor",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-26",
+    "lastSend": 1792574192838
+  },
+  {
+    "username": "hari",
+    "password": "hari",
+    "role": "admin",
+    "expiredDate": "2054-03-05",
+    "lastSend": 1792932058603
+  },
+  {
+    "username": "panjulpuki",
+    "password": "panjul72",
+    "role": "member",
+    "expiredDate": "2026-11-18",
+    "lastSend": 1792666037529
+  },
+  {
+    "username": "cii",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-07-15"
+  },
+  {
+    "username": "Gilbert12",
+    "password": "12345",
+    "role": "owner",
+    "expiredDate": "2054-03-07"
+  },
+  {
+    "username": "Firsyah",
+    "password": "1614",
+    "role": "member",
+    "expiredDate": "2027-10-16",
+    "lastSend": 1792567353474
+  },
+  {
+    "username": "Darren",
+    "password": "Darren131",
+    "role": "high_role",
+    "expiredDate": "2029-07-16",
+    "lastSend": 1792586958406
+  },
+  {
+    "username": "Verse",
+    "password": "Verse270",
+    "role": "high_role",
+    "expiredDate": "2029-07-16"
+  },
+  {
+    "username": "yeremia",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-07"
+  },
+  {
+    "username": "dmskncradi",
+    "password": "dmskncradi",
+    "role": "member",
+    "expiredDate": "2026-10-28",
+    "lastSend": 1792627263483
+  },
+  {
+    "username": "Ranzz",
+    "password": "1108",
+    "role": "member",
+    "expiredDate": "2026-11-20"
+  },
+  {
+    "username": "Ki123",
+    "password": "Kigacor",
+    "role": "member",
+    "expiredDate": "2026-10-28",
+    "lastSend": 1792595559446
+  },
+  {
+    "username": "Rasit",
+    "password": "81098",
+    "role": "owner",
+    "expiredDate": "2054-03-07",
+    "lastSend": 1792652474515
+  },
+  {
+    "username": "YanzzGanteng",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2054-03-07",
+    "lastSend": 1792908191097
+  },
+  {
+    "username": "Bangall",
+    "password": "5678",
+    "role": "member",
+    "expiredDate": "2054-03-07",
+    "lastSend": 1792851439793
+  },
+  {
+    "username": "ndraa",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-08",
+    "lastSend": 1792762925572
+  },
+  {
+    "username": "pahari store",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-23"
+  },
+  {
+    "username": "All",
+    "password": "22067",
+    "role": "member",
+    "expiredDate": "2026-11-21"
+  },
+  {
+    "username": "rehanz",
+    "password": "22067",
+    "role": "member",
+    "expiredDate": "2026-11-21",
+    "lastSend": 1792918763345
+  },
+  {
+    "username": "hanzzgg",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2026-10-23",
+    "lastSend": 1792660434428
+  },
+  {
+    "username": "ridzx",
+    "password": "54321",
+    "role": "staff",
+    "expiredDate": "2054-03-08"
+  },
+  {
+    "username": "akbar",
+    "password": "akbar125e",
+    "role": "member",
+    "expiredDate": "2027-10-22",
+    "lastSend": 1792677809756
+  },
+  {
+    "username": "rajipp",
+    "password": "deexkingbug",
+    "role": "reseller",
+    "expiredDate": "4764-09-17"
+  },
+  {
+    "username": "vinzi",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2054-03-08"
+  },
+  {
+    "username": "kampunk",
+    "password": "1209",
+    "role": "reseller",
+    "expiredDate": "2300-08-06",
+    "lastSend": 1792848723237
+  },
+  {
+    "username": "Crot",
+    "password": "Crot122",
+    "role": "high_role",
+    "expiredDate": "2029-07-17"
+  },
+  {
+    "username": "ell",
+    "password": "elz",
+    "role": "member",
+    "expiredDate": "2026-10-23"
+  },
+  {
+    "username": "mpjkkk",
+    "password": "10",
+    "role": "member",
+    "expiredDate": "2300-08-07",
+    "lastSend": 1792747359988
+  },
+  {
+    "username": "ken",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-10-27",
+    "lastSend": 1792900671212
+  },
+  {
+    "username": "hanzgtg",
+    "password": "14",
+    "role": "member",
+    "expiredDate": "2026-10-25"
+  },
+  {
+    "username": "death",
+    "password": "10",
+    "role": "moderator",
+    "expiredDate": "2300-08-07"
+  },
+  {
+    "username": "ali123",
+    "password": "12345",
+    "role": "member",
+    "expiredDate": "2054-03-09",
+    "lastSend": 1792823440451
+  },
+  {
+    "username": "Agungz",
+    "password": "990",
+    "role": "owner",
+    "expiredDate": "2054-03-09"
+  },
+  {
+    "username": "junn",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-10-27"
+  },
+  {
+    "username": "ttd",
+    "password": "wd",
+    "role": "member",
+    "expiredDate": "2026-10-25"
+  },
+  {
+    "username": "Febz",
+    "password": "121",
+    "role": "admin",
+    "expiredDate": "+029405-11-18"
+  },
+  {
+    "username": "dhoo",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-10",
+    "lastSend": 1792840549655
+  },
+  {
+    "username": "qiyyu",
+    "password": "qiyyu150310",
+    "role": "member",
+    "expiredDate": "2026-10-31",
+    "lastSend": 1792834839541
+  },
+  {
+    "username": "lief15",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-10",
+    "lastSend": 1792854590431
+  },
+  {
+    "username": "elseleb",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-10"
+  },
+  {
+    "username": "owalah",
+    "password": "177899",
+    "role": "member",
+    "expiredDate": "2026-10-25"
+  },
+  {
+    "username": "tungtung",
+    "password": "888577",
+    "role": "member",
+    "expiredDate": "2026-10-25",
+    "lastSend": 1792858083405
+  },
+  {
+    "username": "Lamz",
+    "password": "02",
+    "role": "staff",
+    "expiredDate": "2054-03-10"
+  },
+  {
+    "username": "acel",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-31",
+    "lastSend": 1792865138505
+  },
+  {
+    "username": "aren",
+    "password": "12",
+    "role": "member",
+    "expiredDate": "2054-03-10",
+    "lastSend": 1792865607186
+  },
+  {
+    "username": "iwanaja",
+    "password": "201130",
+    "role": "reseller",
+    "expiredDate": "+029405-11-19"
+  },
+  {
+    "username": "rizz",
+    "password": "rizz159",
+    "role": "high_role",
+    "expiredDate": "2054-03-11"
+  },
+  {
+    "username": "FABZZ",
+    "password": "22",
+    "role": "member",
+    "expiredDate": "2054-03-11",
+    "lastSend": 1792914238933
+  },
+  {
+    "username": "wanglin",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-10-29",
+    "lastSend": 1792928836797
+  },
+  {
+    "username": "Babos",
+    "password": "Babos926",
+    "role": "high_role",
+    "expiredDate": "2029-07-20"
+  },
+  {
+    "username": "fiki.gblk",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-26"
+  },
+  {
+    "username": "Fandy",
+    "password": "ZyrexD",
+    "role": "moderator",
+    "expiredDate": "+029405-11-19"
+  },
+  {
+    "username": "Ray",
+    "password": "67",
+    "role": "reseller",
+    "expiredDate": "4764-09-20"
+  },
+  {
+    "username": "Rayyy",
+    "password": "67",
+    "role": "reseller",
+    "expiredDate": "4764-09-20"
+  },
+  {
+    "username": "Yonk",
+    "password": "Yonk483",
+    "role": "high_role",
+    "expiredDate": "2029-07-20"
+  }
+]
