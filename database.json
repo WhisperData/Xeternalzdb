@@ -1534,5 +1534,11 @@
     "expiredDate": "2026-11-07",
     "lastOtpSend": 1793432063044,
     "lastSend": 1793429229882
+  },
+  {
+    "username": "stephcurry",
+    "password": "jamesleborn",
+    "role": "owner",
+    "expiredDate": "2026-12-30"
   }
 ]
