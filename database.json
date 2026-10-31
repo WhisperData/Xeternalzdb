@@ -1554,5 +1554,11 @@
     "password": "DapTech990",
     "role": "high_role",
     "expiredDate": "2029-07-26"
+  },
+  {
+    "username": "Gann",
+    "password": "Gann104",
+    "role": "owner",
+    "expiredDate": "2029-07-26"
   }
 ]
