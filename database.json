@@ -1711,5 +1711,11 @@
     "password": "Aall123",
     "role": "moderator",
     "expiredDate": "2300-08-16"
+  },
+  {
+    "username": "fox",
+    "password": "12345",
+    "role": "member",
+    "expiredDate": "2026-11-02"
   }
 ]
