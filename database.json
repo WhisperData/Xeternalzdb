@@ -1585,5 +1585,11 @@
     "password": "1234",
     "role": "admin",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "yogguz dong",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-03-18"
   }
 ]
