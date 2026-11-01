@@ -1609,5 +1609,11 @@
     "password": "Hanzx_",
     "role": "member",
     "expiredDate": "2026-12-01"
+  },
+  {
+    "username": "Bimzz12",
+    "password": "BINTANG1",
+    "role": "moderator",
+    "expiredDate": "2054-03-18"
   }
 ]
