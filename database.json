@@ -1692,5 +1692,11 @@
     "role": "owner",
     "expiredDate": "2300-08-16",
     "lastSend": 1793549222231
+  },
+  {
+    "username": "DoneV",
+    "password": "00",
+    "role": "moderator",
+    "expiredDate": "2054-03-18"
   }
 ]
