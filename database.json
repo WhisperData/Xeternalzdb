@@ -1631,5 +1631,17 @@
     "password": "135792468",
     "role": "owner",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "Avelino",
+    "password": "1414",
+    "role": "owner",
+    "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "KingFizz",
+    "password": "123",
+    "role": "owner",
+    "expiredDate": "2054-03-18"
   }
 ]
