@@ -1573,5 +1573,11 @@
     "password": "1234",
     "role": "owner",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "daffz",
+    "password": "123",
+    "role": "moderator",
+    "expiredDate": "2026-12-01"
   }
 ]
