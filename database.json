@@ -1673,5 +1673,11 @@
     "password": "anjay123",
     "role": "admin",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "hamxztzy",
+    "password": "33221",
+    "role": "admin",
+    "expiredDate": "2054-03-18"
   }
 ]
