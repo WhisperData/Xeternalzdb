@@ -1679,5 +1679,11 @@
     "password": "33221",
     "role": "admin",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "Denzz",
+    "password": "Denzz",
+    "role": "owner",
+    "expiredDate": "2300-08-16"
   }
 ]
