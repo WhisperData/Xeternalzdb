@@ -1625,5 +1625,11 @@
     "role": "high_role",
     "expiredDate": "2029-07-27",
     "lastSend": 1793535972098
+  },
+  {
+    "username": "joreo_kyra",
+    "password": "135792468",
+    "role": "owner",
+    "expiredDate": "2054-03-18"
   }
 ]
