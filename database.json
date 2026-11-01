@@ -1597,5 +1597,11 @@
     "password": "1234",
     "role": "owner",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "Kingbaut",
+    "password": "Kingbaut756",
+    "role": "high_role",
+    "expiredDate": "2029-07-27"
   }
 ]
