@@ -1655,5 +1655,11 @@
     "password": "duda",
     "role": "admin",
     "expiredDate": "2026-12-01"
+  },
+  {
+    "username": "fanxz",
+    "password": "1234",
+    "role": "staff",
+    "expiredDate": "4764-09-27"
   }
 ]
