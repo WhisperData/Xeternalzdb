@@ -1661,5 +1661,11 @@
     "password": "1234",
     "role": "staff",
     "expiredDate": "4764-09-27"
+  },
+  {
+    "username": "Rizzsange",
+    "password": "rizkiaja",
+    "role": "moderator",
+    "expiredDate": "2054-03-18"
   }
 ]
