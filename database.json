@@ -1704,5 +1704,11 @@
     "password": "1wsp",
     "role": "moderator",
     "expiredDate": "2054-03-18"
+  },
+  {
+    "username": "aall",
+    "password": "Aall123",
+    "role": "owner",
+    "expiredDate": "2300-08-16"
   }
 ]
