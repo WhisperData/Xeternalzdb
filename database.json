@@ -1637,5 +1637,11 @@
     "password": "135792468",
     "role": "moderator",
     "expiredDate": "2029-07-27"
+  },
+  {
+    "username": "REXX",
+    "password": "123",
+    "role": "admin",
+    "expiredDate": "2054-03-18"
   }
 ]
