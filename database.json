@@ -1787,5 +1787,11 @@
     "password": "00",
     "role": "admin",
     "expiredDate": "2054-03-19"
+  },
+  {
+    "username": "wilsx75",
+    "password": "00",
+    "role": "admin",
+    "expiredDate": "2054-03-19"
   }
 ]
