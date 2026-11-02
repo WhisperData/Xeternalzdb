@@ -1748,5 +1748,17 @@
     "password": "00",
     "role": "admin",
     "expiredDate": "4764-09-28"
+  },
+  {
+    "username": "shiro",
+    "password": "969",
+    "role": "owner",
+    "expiredDate": "2054-03-19"
+  },
+  {
+    "username": "elfan",
+    "password": "221014",
+    "role": "owner",
+    "expiredDate": "2054-03-19"
   }
 ]
