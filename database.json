@@ -1730,5 +1730,11 @@
     "password": "Scofield449",
     "role": "high_role",
     "expiredDate": "2029-07-28"
+  },
+  {
+    "username": "nabilganteng",
+    "password": "1122",
+    "role": "admin",
+    "expiredDate": "2054-03-19"
   }
 ]
