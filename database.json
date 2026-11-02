@@ -1742,5 +1742,11 @@
     "password": "1234",
     "role": "admin",
     "expiredDate": "2054-03-19"
+  },
+  {
+    "username": "BANZZ",
+    "password": "00",
+    "role": "admin",
+    "expiredDate": "4764-09-28"
   }
 ]
