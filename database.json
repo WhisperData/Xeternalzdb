@@ -1718,5 +1718,11 @@
     "password": "12345",
     "role": "member",
     "expiredDate": "2026-11-02"
+  },
+  {
+    "username": "VenX",
+    "password": "00",
+    "role": "owner",
+    "expiredDate": "2300-08-17"
   }
 ]
