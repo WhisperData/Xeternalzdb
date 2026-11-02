@@ -1781,5 +1781,11 @@
     "password": "apisple123",
     "role": "admin",
     "expiredDate": "2054-03-19"
+  },
+  {
+    "username": "Hafril1",
+    "password": "00",
+    "role": "admin",
+    "expiredDate": "2054-03-19"
   }
 ]
