@@ -1736,5 +1736,11 @@
     "password": "1122",
     "role": "admin",
     "expiredDate": "2054-03-19"
+  },
+  {
+    "username": "piezyy",
+    "password": "1234",
+    "role": "admin",
+    "expiredDate": "2054-03-19"
   }
 ]
