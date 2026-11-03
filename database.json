@@ -1925,5 +1925,11 @@
     "password": "anjai",
     "role": "member",
     "expiredDate": "4764-09-29"
+  },
+  {
+    "username": "val",
+    "password": "12",
+    "role": "owner",
+    "expiredDate": "2300-08-18"
   }
 ]
