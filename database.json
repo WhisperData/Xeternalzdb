@@ -1995,5 +1995,11 @@
     "password": "bbs dh",
     "role": "admin",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "RYYY20",
+    "password": "RYYY20516",
+    "role": "member",
+    "expiredDate": "2026-11-04"
   }
 ]
