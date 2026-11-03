@@ -1881,5 +1881,11 @@
     "password": "lebihmudah",
     "role": "owner",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "semzyy",
+    "password": "0607",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
