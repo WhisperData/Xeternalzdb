@@ -1913,5 +1913,11 @@
     "password": "123456",
     "role": "reseller",
     "expiredDate": "2029-07-29"
+  },
+  {
+    "username": "Ramz_123",
+    "password": "rama123",
+    "role": "member",
+    "expiredDate": "2026-11-05"
   }
 ]
