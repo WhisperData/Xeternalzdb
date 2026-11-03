@@ -1893,5 +1893,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2026-11-04"
+  },
+  {
+    "username": "ValzXD",
+    "password": "VALZ2",
+    "role": "owner",
+    "expiredDate": "2054-03-20"
   }
 ]
