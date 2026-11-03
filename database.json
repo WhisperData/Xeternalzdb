@@ -1951,5 +1951,11 @@
     "password": "apa aja",
     "role": "member",
     "expiredDate": "2026-12-03"
+  },
+  {
+    "username": "DIKZ",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-03-20"
   }
 ]
