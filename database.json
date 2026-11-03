@@ -1957,5 +1957,11 @@
     "password": "1234",
     "role": "owner",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "zarrx",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-03-20"
   }
 ]
