@@ -1817,5 +1817,11 @@
     "password": "kukang",
     "role": "high_role",
     "expiredDate": "2029-07-29"
+  },
+  {
+    "username": "simple_",
+    "password": "lebihsimple",
+    "role": "member",
+    "expiredDate": "2054-03-20"
   }
 ]
