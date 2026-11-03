@@ -1919,5 +1919,11 @@
     "password": "rama123",
     "role": "member",
     "expiredDate": "2026-11-05"
+  },
+  {
+    "username": "cell",
+    "password": "anjai",
+    "role": "member",
+    "expiredDate": "4764-09-29"
   }
 ]
