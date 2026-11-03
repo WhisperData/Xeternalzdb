@@ -1868,5 +1868,11 @@
     "role": "admin",
     "expiredDate": "2054-03-20",
     "lastSend": 1793701203346
+  },
+  {
+    "username": "ikyystur",
+    "password": "ikyy22stur",
+    "role": "member",
+    "expiredDate": "2026-11-10"
   }
 ]
