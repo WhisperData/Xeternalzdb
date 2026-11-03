@@ -1817,5 +1817,11 @@
     "password": "lebihsimple",
     "role": "member",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "hanzzz",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-20"
   }
 ]
