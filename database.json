@@ -1849,5 +1849,11 @@
     "password": "kyy123",
     "role": "admin",
     "expiredDate": "2026-12-03"
+  },
+  {
+    "username": "kyz",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2026-11-04"
   }
 ]
