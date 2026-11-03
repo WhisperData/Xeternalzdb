@@ -1932,5 +1932,11 @@
     "password": "anjai",
     "role": "member",
     "expiredDate": "+029405-11-28"
+  },
+  {
+    "username": "MADZSTORE",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2054-03-20"
   }
 ]
