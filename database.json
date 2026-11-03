@@ -1802,5 +1802,11 @@
     "password": "ngocok123",
     "role": "admin",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "garage",
+    "password": "garagex122",
+    "role": "member",
+    "expiredDate": "2026-12-03"
   }
 ]
