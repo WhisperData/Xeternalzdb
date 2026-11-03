@@ -1855,5 +1855,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2026-11-04"
+  },
+  {
+    "username": "Quinenox",
+    "password": "1234",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
