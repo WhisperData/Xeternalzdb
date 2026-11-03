@@ -1861,5 +1861,11 @@
     "password": "1234",
     "role": "admin",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "vinoll",
+    "password": "1234",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
