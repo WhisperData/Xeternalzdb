@@ -1811,5 +1811,11 @@
     "expiredDate": "2026-12-03",
     "lastSend": 1793683963720,
     "lastOtpSend": 1793683323437
+  },
+  {
+    "username": "Nalxxx",
+    "password": "Nalxxx875",
+    "role": "high_role",
+    "expiredDate": "2029-07-29"
   }
 ]
