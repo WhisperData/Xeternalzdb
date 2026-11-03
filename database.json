@@ -1907,5 +1907,11 @@
     "role": "admin",
     "expiredDate": "2054-03-20",
     "lastSend": 1793704308569
+  },
+  {
+    "username": "detz ganteng",
+    "password": "123456",
+    "role": "reseller",
+    "expiredDate": "2029-07-29"
   }
 ]
