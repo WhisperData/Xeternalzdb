@@ -1989,5 +1989,11 @@
     "password": "1234",
     "role": "admin",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "dexz",
+    "password": "bbs dh",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
