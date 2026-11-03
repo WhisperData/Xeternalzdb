@@ -1899,5 +1899,11 @@
     "password": "VALZ2",
     "role": "owner",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "Abuy",
+    "password": "1234",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
