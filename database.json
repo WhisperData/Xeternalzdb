@@ -1887,5 +1887,11 @@
     "password": "0607",
     "role": "admin",
     "expiredDate": "2054-03-20"
+  },
+  {
+    "username": "sky1",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2026-11-04"
   }
 ]
