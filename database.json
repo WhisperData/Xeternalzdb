@@ -1796,5 +1796,11 @@
     "role": "admin",
     "expiredDate": "2054-03-19",
     "lastSend": 1793671574534
+  },
+  {
+    "username": "Ditzzkeren",
+    "password": "ngocok123",
+    "role": "admin",
+    "expiredDate": "2054-03-20"
   }
 ]
