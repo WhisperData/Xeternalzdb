@@ -2082,5 +2082,11 @@
     "password": "1234",
     "role": "member",
     "expiredDate": "2026-11-05"
+  },
+  {
+    "username": "yanzu",
+    "password": "yanzugntng",
+    "role": "admin",
+    "expiredDate": "2300-08-19"
   }
 ]
