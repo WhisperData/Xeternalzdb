@@ -2018,5 +2018,11 @@
     "password": "158",
     "role": "owner",
     "expiredDate": "4764-09-29"
+  },
+  {
+    "username": "awagacor",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-11-06"
   }
 ]
