@@ -2128,5 +2128,11 @@
     "password": "5",
     "role": "owner",
     "expiredDate": "2054-03-21"
+  },
+  {
+    "username": "Barr",
+    "password": "Barr339",
+    "role": "high_role",
+    "expiredDate": "2054-03-21"
   }
 ]
