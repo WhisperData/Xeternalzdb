@@ -2024,5 +2024,11 @@
     "password": "1345",
     "role": "admin",
     "expiredDate": "2054-03-21"
+  },
+  {
+    "username": "ikan123",
+    "password": "okee12",
+    "role": "member",
+    "expiredDate": "2026-11-05"
   }
 ]
