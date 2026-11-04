@@ -2110,5 +2110,11 @@
     "password": "pandhu2014",
     "role": "member",
     "expiredDate": "2026-12-04"
+  },
+  {
+    "username": "damz",
+    "password": "damz3333",
+    "role": "member",
+    "expiredDate": "2300-08-19"
   }
 ]
