@@ -2030,5 +2030,11 @@
     "password": "okee12",
     "role": "member",
     "expiredDate": "2026-11-05"
+  },
+  {
+    "username": "gold",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-03-21"
   }
 ]
