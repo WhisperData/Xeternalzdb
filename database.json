@@ -2098,5 +2098,11 @@
     "role": "member",
     "expiredDate": "2026-11-05",
     "lastSend": 1793797266384
+  },
+  {
+    "username": "Rizkq",
+    "password": "8888",
+    "role": "owner",
+    "expiredDate": "2054-03-21"
   }
 ]
