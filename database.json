@@ -2122,5 +2122,11 @@
     "password": "acil80",
     "role": "member",
     "expiredDate": "2054-03-21"
+  },
+  {
+    "username": "traa",
+    "password": "5",
+    "role": "owner",
+    "expiredDate": "2054-03-21"
   }
 ]
