@@ -2056,5 +2056,11 @@
     "password": "00",
     "role": "admin",
     "expiredDate": "2300-08-19"
+  },
+  {
+    "username": "Panzz",
+    "password": "124",
+    "role": "owner",
+    "expiredDate": "2300-08-19"
   }
 ]
