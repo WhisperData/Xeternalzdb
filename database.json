@@ -2206,5 +2206,11 @@
     "password": "00",
     "role": "owner",
     "expiredDate": "2054-03-22"
+  },
+  {
+    "username": "nikk",
+    "password": "1210",
+    "role": "member",
+    "expiredDate": "2026-12-05"
   }
 ]
