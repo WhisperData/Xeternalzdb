@@ -2179,7 +2179,7 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2054-03-22",
-    "lastSend": 1793879749074
+    "lastSend": 1793880525670
   },
   {
     "username": "junzzy",
@@ -2200,5 +2200,11 @@
     "role": "member",
     "expiredDate": "2026-11-06",
     "lastOtpSend": 1793880524156
+  },
+  {
+    "username": "Wendi",
+    "password": "1234",
+    "role": "admin",
+    "expiredDate": "2054-03-22"
   }
 ]
