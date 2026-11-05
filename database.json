@@ -2212,5 +2212,11 @@
     "password": "1210",
     "role": "member",
     "expiredDate": "2026-12-05"
+  },
+  {
+    "username": "zhen",
+    "password": "zhen",
+    "role": "admin",
+    "expiredDate": "4764-10-01"
   }
 ]
