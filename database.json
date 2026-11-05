@@ -2150,5 +2150,11 @@
     "password": "123",
     "role": "admin",
     "expiredDate": "2029-07-31"
+  },
+  {
+    "username": "Adir04",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2026-11-12"
   }
 ]
