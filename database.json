@@ -2143,5 +2143,11 @@
     "role": "member",
     "expiredDate": "2026-12-05",
     "lastSend": 1793864663346
+  },
+  {
+    "username": "Azipv2",
+    "password": "123",
+    "role": "admin",
+    "expiredDate": "2029-07-31"
   }
 ]
