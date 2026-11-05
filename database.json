@@ -2178,5 +2178,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2054-03-22"
+  },
+  {
+    "username": "junzzy",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2054-03-22"
   }
 ]
