@@ -2157,5 +2157,11 @@
     "role": "member",
     "expiredDate": "2026-11-12",
     "lastOtpSend": 1793868578233
+  },
+  {
+    "username": "TENDOU STORE",
+    "password": "1234",
+    "role": "owner",
+    "expiredDate": "2054-03-22"
   }
 ]
