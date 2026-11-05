@@ -2156,12 +2156,18 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2026-11-12",
-    "lastOtpSend": 1793868578233
+    "lastOtpSend": 1793868730052
   },
   {
     "username": "TENDOU STORE",
     "password": "1234",
     "role": "owner",
     "expiredDate": "2054-03-22"
+  },
+  {
+    "username": "Xeter",
+    "password": "G1234",
+    "role": "owner",
+    "expiredDate": "2300-08-20"
   }
 ]
