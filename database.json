@@ -2267,5 +2267,11 @@
     "password": "1986",
     "role": "owner",
     "expiredDate": "2054-03-23"
+  },
+  {
+    "username": "Daniss",
+    "password": "11",
+    "role": "admin",
+    "expiredDate": "2029-08-01"
   }
 ]
