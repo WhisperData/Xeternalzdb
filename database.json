@@ -2241,5 +2241,11 @@
     "password": "Kengzzx5922",
     "role": "high_role",
     "expiredDate": "2029-08-01"
+  },
+  {
+    "username": "fatz",
+    "password": "029008",
+    "role": "admin",
+    "expiredDate": "2054-03-23"
   }
 ]
