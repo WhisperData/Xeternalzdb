@@ -2247,5 +2247,11 @@
     "password": "029008",
     "role": "admin",
     "expiredDate": "2054-03-23"
+  },
+  {
+    "username": "yanzxx",
+    "password": "7777",
+    "role": "admin",
+    "expiredDate": "2029-08-01"
   }
 ]
