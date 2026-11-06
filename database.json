@@ -2274,5 +2274,11 @@
     "password": "11",
     "role": "admin",
     "expiredDate": "2029-08-01"
+  },
+  {
+    "username": "reyy tzy",
+    "password": "101112",
+    "role": "admin",
+    "expiredDate": "2054-03-23"
   }
 ]
