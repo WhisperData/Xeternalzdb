@@ -2235,5 +2235,11 @@
     "password": "101112",
     "role": "admin",
     "expiredDate": "2054-03-23"
+  },
+  {
+    "username": "CETZ",
+    "password": "yantokece",
+    "role": "reseller",
+    "expiredDate": "2300-08-22"
   }
 ]
