@@ -2249,5 +2249,11 @@
     "role": "member",
     "expiredDate": "2026-11-14",
     "lastSend": 1794041052327
+  },
+  {
+    "username": "aliganteng",
+    "password": "bejir22",
+    "role": "owner",
+    "expiredDate": "2054-03-24"
   }
 ]
