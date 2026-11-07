@@ -2263,5 +2263,11 @@
     "password": "1",
     "role": "owner",
     "expiredDate": "2054-03-24"
+  },
+  {
+    "username": "lol73",
+    "password": "malas",
+    "role": "admin",
+    "expiredDate": "2054-03-24"
   }
 ]
