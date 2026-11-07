@@ -2327,5 +2327,11 @@
     "password": "deexkingbug",
     "role": "owner",
     "expiredDate": "2300-08-22"
+  },
+  {
+    "username": "zev",
+    "password": "zevkangbug2",
+    "role": "admin",
+    "expiredDate": "2029-08-02"
   }
 ]
