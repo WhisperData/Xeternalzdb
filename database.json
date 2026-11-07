@@ -2241,5 +2241,11 @@
     "password": "yantoimup",
     "role": "reseller",
     "expiredDate": "2300-08-22"
+  },
+  {
+    "username": "Rivang",
+    "password": "00",
+    "role": "member",
+    "expiredDate": "2026-11-14"
   }
 ]
