@@ -2327,5 +2327,11 @@
     "password": "999",
     "role": "moderator",
     "expiredDate": "4764-10-03"
+  },
+  {
+    "username": "deeXxeter",
+    "password": "deexkingbug",
+    "role": "owner",
+    "expiredDate": "2300-08-22"
   }
 ]
