@@ -2276,5 +2276,11 @@
     "password": "tipistipis",
     "role": "admin",
     "expiredDate": "2029-08-02"
+  },
+  {
+    "username": "Fanzxxxx",
+    "password": "FanzxTipis",
+    "role": "admin",
+    "expiredDate": "2029-08-02"
   }
 ]
