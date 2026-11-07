@@ -2270,5 +2270,11 @@
     "password": "malas",
     "role": "admin",
     "expiredDate": "2054-03-24"
+  },
+  {
+    "username": "eysantay123",
+    "password": "tipistipis",
+    "role": "admin",
+    "expiredDate": "2029-08-02"
   }
 ]
