@@ -2321,5 +2321,11 @@
     "password": "12456",
     "role": "moderator",
     "expiredDate": "2300-08-22"
+  },
+  {
+    "username": "yudzz",
+    "password": "999",
+    "role": "moderator",
+    "expiredDate": "4764-10-03"
   }
 ]
