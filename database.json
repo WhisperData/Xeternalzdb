@@ -2342,5 +2342,11 @@
     "password": "623884",
     "role": "member",
     "expiredDate": "2054-03-25"
+  },
+  {
+    "username": "vanooo",
+    "password": "vanooo32",
+    "role": "admin",
+    "expiredDate": "2029-08-03"
   }
 ]
