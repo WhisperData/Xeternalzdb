@@ -2379,5 +2379,11 @@
     "password": "Dennn91",
     "role": "high_role",
     "expiredDate": "2029-08-03"
+  },
+  {
+    "username": "kalz",
+    "password": "kalz272",
+    "role": "staff",
+    "expiredDate": "2054-03-25"
   }
 ]
