@@ -2365,5 +2365,11 @@
     "password": "Boca12",
     "role": "owner",
     "expiredDate": "2300-08-23"
+  },
+  {
+    "username": "Dilzxytree",
+    "password": "77777771",
+    "role": "admin",
+    "expiredDate": "2029-08-03"
   }
 ]
