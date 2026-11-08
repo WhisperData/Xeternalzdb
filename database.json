@@ -2373,5 +2373,11 @@
     "password": "lenzxeter945",
     "role": "member",
     "expiredDate": "2029-08-03"
+  },
+  {
+    "username": "Boca",
+    "password": "Boca12",
+    "role": "owner",
+    "expiredDate": "2300-08-23"
   }
 ]
