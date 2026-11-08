@@ -2361,11 +2361,5 @@
     "password": "Skylinne862",
     "role": "high_role",
     "expiredDate": "2029-08-03"
-  },
-  {
-    "username": "Bondan",
-    "password": "123",
-    "role": "admin",
-    "expiredDate": "2300-08-23"
   }
 ]
