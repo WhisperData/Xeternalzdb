@@ -2336,5 +2336,11 @@
     "password": "zevkangbug2",
     "role": "admin",
     "expiredDate": "2029-08-02"
+  },
+  {
+    "username": "Farzz15",
+    "password": "623884",
+    "role": "member",
+    "expiredDate": "2054-03-25"
   }
 ]
