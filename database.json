@@ -2257,12 +2257,6 @@
     "expiredDate": "2300-08-22"
   },
   {
-    "username": "revo",
-    "password": "1234",
-    "role": "reseller",
-    "expiredDate": "2026-12-07"
-  },
-  {
     "username": "rexledor",
     "password": "36",
     "role": "owner",
