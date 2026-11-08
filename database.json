@@ -2367,5 +2367,11 @@
     "password": "123",
     "role": "admin",
     "expiredDate": "2054-03-25"
+  },
+  {
+    "username": "lenzxeter",
+    "password": "lenzxeter945",
+    "role": "member",
+    "expiredDate": "2029-08-03"
   }
 ]
