@@ -2348,5 +2348,11 @@
     "password": "vanooo32",
     "role": "admin",
     "expiredDate": "2029-08-03"
+  },
+  {
+    "username": "piacyy",
+    "password": "piacyy856",
+    "role": "high_role",
+    "expiredDate": "2029-08-03"
   }
 ]
