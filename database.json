@@ -2435,5 +2435,11 @@
     "password": "5421",
     "role": "owner",
     "expiredDate": "2054-03-26"
+  },
+  {
+    "username": "rexxy",
+    "password": "2233",
+    "role": "owner",
+    "expiredDate": "4764-10-05"
   }
 ]
