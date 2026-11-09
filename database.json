@@ -2372,5 +2372,11 @@
     "role": "member",
     "expiredDate": "2026-11-15",
     "lastSend": 1794137667249
+  },
+  {
+    "username": "agatha",
+    "password": "agatha",
+    "role": "owner",
+    "expiredDate": "2029-08-04"
   }
 ]
