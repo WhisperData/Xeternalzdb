@@ -2441,5 +2441,11 @@
     "password": "2233",
     "role": "owner",
     "expiredDate": "4764-10-05"
+  },
+  {
+    "username": "vanzx",
+    "password": "vanz222",
+    "role": "admin",
+    "expiredDate": "4764-10-05"
   }
 ]
