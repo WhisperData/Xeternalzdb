@@ -2378,11 +2378,5 @@
     "password": "agatha",
     "role": "owner",
     "expiredDate": "2029-08-04"
-  },
-  {
-    "username": "FEBZZ",
-    "password": "1667",
-    "role": "admin",
-    "expiredDate": "2300-08-24"
   }
 ]
