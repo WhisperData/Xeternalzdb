@@ -2415,5 +2415,11 @@
     "password": "CUEK1818",
     "role": "member",
     "expiredDate": "2026-12-09"
+  },
+  {
+    "username": "Febzzz",
+    "password": "Febzzz30",
+    "role": "staff",
+    "expiredDate": "2029-08-04"
   }
 ]
