@@ -2403,5 +2403,11 @@
     "password": "2010",
     "role": "reseller",
     "expiredDate": "2054-03-26"
+  },
+  {
+    "username": "wilzz",
+    "password": "wilzstr67",
+    "role": "reseller",
+    "expiredDate": "2054-03-26"
   }
 ]
