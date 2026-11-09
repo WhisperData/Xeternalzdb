@@ -2429,5 +2429,11 @@
     "password": "Vaxx90",
     "role": "member",
     "expiredDate": "2054-03-26"
+  },
+  {
+    "username": "MinnnSvntn",
+    "password": "5421",
+    "role": "owner",
+    "expiredDate": "2054-03-26"
   }
 ]
