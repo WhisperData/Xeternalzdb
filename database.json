@@ -124,13 +124,6 @@
     "uid": "835ED53A0A2B67A2"
   },
   {
-    "username": "agus",
-    "password": "1",
-    "role": "member",
-    "expiredDate": "2026-09-14",
-    "uid": "3B0FCD4BFE63754E"
-  },
-  {
     "username": "zidanz14",
     "password": "zidanz123",
     "role": "admin",
@@ -161,15 +154,6 @@
     "uid": "E2C2891A53BF7DE0",
     "lastSend": 1789722566802,
     "lastOtpSend": 1789291887440
-  },
-  {
-    "username": "RULZGG",
-    "password": "RULZGG",
-    "role": "member",
-    "expiredDate": "2300-06-28",
-    "uid": "56F10E9CCBAAE785",
-    "lastSend": 1790467074198,
-    "lastOtpSend": 1789372977013
   },
   {
     "username": "Duu",
