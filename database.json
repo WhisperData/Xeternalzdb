@@ -2439,5 +2439,11 @@
     "password": "12",
     "role": "reseller",
     "expiredDate": "2054-03-27"
+  },
+  {
+    "username": "axkc",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-03-27"
   }
 ]
