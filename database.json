@@ -2443,5 +2443,11 @@
     "role": "reseller",
     "expiredDate": "2300-08-25",
     "lastSend": 1794352232388
+  },
+  {
+    "username": "AakzOfc",
+    "password": "AakzOfc420",
+    "role": "high_role",
+    "expiredDate": "2029-08-05"
   }
 ]
