@@ -2442,5 +2442,11 @@
     "password": "13",
     "role": "member",
     "expiredDate": "2026-11-11"
+  },
+  {
+    "username": "rafka",
+    "password": "080512",
+    "role": "reseller",
+    "expiredDate": "2300-08-25"
   }
 ]
