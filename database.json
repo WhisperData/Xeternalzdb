@@ -2427,5 +2427,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2300-08-25"
+  },
+  {
+    "username": "ayen",
+    "password": "1212",
+    "role": "admin",
+    "expiredDate": "4764-10-06"
   }
 ]
