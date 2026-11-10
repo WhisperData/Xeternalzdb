@@ -2447,5 +2447,11 @@
     "password": "vanz222",
     "role": "admin",
     "expiredDate": "4764-10-05"
+  },
+  {
+    "username": "danzyoss",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2054-03-27"
   }
 ]
