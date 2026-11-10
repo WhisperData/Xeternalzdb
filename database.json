@@ -2421,5 +2421,11 @@
     "password": "12",
     "role": "reseller",
     "expiredDate": "2054-03-27"
+  },
+  {
+    "username": "CLYNNA534",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2300-08-25"
   }
 ]
