@@ -2415,5 +2415,11 @@
     "password": "1234",
     "role": "reseller",
     "expiredDate": "2054-03-27"
+  },
+  {
+    "username": "widz",
+    "password": "12",
+    "role": "reseller",
+    "expiredDate": "2054-03-27"
   }
 ]
