@@ -2433,5 +2433,11 @@
     "password": "1212",
     "role": "admin",
     "expiredDate": "4764-10-06"
+  },
+  {
+    "username": "junz",
+    "password": "12",
+    "role": "reseller",
+    "expiredDate": "2054-03-27"
   }
 ]
