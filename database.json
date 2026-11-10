@@ -190,15 +190,6 @@
     "lastSend": 1790064172118
   },
   {
-    "username": "farel",
-    "password": "11",
-    "role": "member",
-    "expiredDate": "2026-09-14",
-    "uid": "49F8D9109773804E",
-    "lastOtpSend": 1789292991925,
-    "lastSend": 1789293183299
-  },
-  {
     "username": "park",
     "password": "park01",
     "role": "owner",
