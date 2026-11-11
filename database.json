@@ -2462,5 +2462,11 @@
     "password": "029",
     "role": "owner",
     "expiredDate": "2029-08-06"
+  },
+  {
+    "username": "ijai",
+    "password": "1",
+    "role": "admin",
+    "expiredDate": "2054-03-28"
   }
 ]
