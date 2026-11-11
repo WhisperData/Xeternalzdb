@@ -1659,7 +1659,8 @@
     "username": "Nalxxx",
     "password": "kukang",
     "role": "high_role",
-    "expiredDate": "2029-07-29"
+    "expiredDate": "2029-07-29",
+    "lastSend": 1794429085835
   },
   {
     "username": "simple_",
