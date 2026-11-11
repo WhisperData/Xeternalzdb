@@ -2487,5 +2487,11 @@
     "password": "bagas123",
     "role": "member",
     "expiredDate": "2054-03-28"
+  },
+  {
+    "username": "LutzzNotDev",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2300-08-26"
   }
 ]
