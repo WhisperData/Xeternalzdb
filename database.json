@@ -2449,5 +2449,11 @@
     "password": "AakzOfc420",
     "role": "high_role",
     "expiredDate": "2029-08-05"
+  },
+  {
+    "username": "comatozze",
+    "password": "gatouze",
+    "role": "member",
+    "expiredDate": "2026-11-12"
   }
 ]
