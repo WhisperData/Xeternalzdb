@@ -2512,5 +2512,11 @@
     "password": "12",
     "role": "reseller",
     "expiredDate": "2054-03-28"
+  },
+  {
+    "username": "Langzz",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2026-11-13"
   }
 ]
