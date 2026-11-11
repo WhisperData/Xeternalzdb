@@ -2506,5 +2506,11 @@
     "password": "DARMAN",
     "role": "member",
     "expiredDate": "2300-08-26"
+  },
+  {
+    "username": "SANEFK",
+    "password": "12",
+    "role": "reseller",
+    "expiredDate": "2054-03-28"
   }
 ]
