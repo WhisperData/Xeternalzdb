@@ -2494,5 +2494,11 @@
     "password": "1",
     "role": "reseller",
     "expiredDate": "2300-08-26"
+  },
+  {
+    "username": "SAN. E. F. K",
+    "password": "ERLYACANTIKTBRT",
+    "role": "member",
+    "expiredDate": "2026-11-18"
   }
 ]
