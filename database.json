@@ -2481,5 +2481,11 @@
     "password": "2012",
     "role": "reseller",
     "expiredDate": "4764-10-07"
+  },
+  {
+    "username": "Bagas",
+    "password": "bagas123",
+    "role": "member",
+    "expiredDate": "2054-03-28"
   }
 ]
