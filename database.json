@@ -2475,5 +2475,11 @@
     "password": "1",
     "role": "admin",
     "expiredDate": "2054-03-28"
+  },
+  {
+    "username": "Ocid",
+    "password": "2012",
+    "role": "reseller",
+    "expiredDate": "4764-10-07"
   }
 ]
