@@ -2566,5 +2566,11 @@
     "password": "1234",
     "role": "reseller",
     "expiredDate": "2054-03-31"
+  },
+  {
+    "username": "flado15",
+    "password": "1515",
+    "role": "owner",
+    "expiredDate": "2054-03-31"
   }
 ]
