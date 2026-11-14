@@ -2560,5 +2560,11 @@
     "password": "Bangz544",
     "role": "high_role",
     "expiredDate": "2029-08-09"
+  },
+  {
+    "username": "Guss",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2054-03-31"
   }
 ]
