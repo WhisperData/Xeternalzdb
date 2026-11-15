@@ -2606,5 +2606,11 @@
     "password": "1234",
     "role": "member",
     "expiredDate": "2054-04-01"
+  },
+  {
+    "username": "ALFAN",
+    "password": "FAN",
+    "role": "reseller",
+    "expiredDate": "2300-08-30"
   }
 ]
