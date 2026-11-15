@@ -2587,5 +2587,11 @@
     "password": "1234",
     "role": "member",
     "expiredDate": "2054-04-01"
+  },
+  {
+    "username": "zhr",
+    "password": "x",
+    "role": "member",
+    "expiredDate": "2054-04-01"
   }
 ]
