@@ -2593,5 +2593,11 @@
     "password": "x",
     "role": "member",
     "expiredDate": "2054-04-01"
+  },
+  {
+    "username": "nnael",
+    "password": "nnael216",
+    "role": "moderator",
+    "expiredDate": "2029-08-10"
   }
 ]
