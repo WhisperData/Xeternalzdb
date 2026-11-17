@@ -2703,5 +2703,11 @@
     "password": "1234",
     "role": "reseller",
     "expiredDate": "2054-04-03"
+  },
+  {
+    "username": "ramzky",
+    "password": "ramzkykangbug",
+    "role": "reseller",
+    "expiredDate": "2300-09-01"
   }
 ]
