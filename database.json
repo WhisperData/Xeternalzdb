@@ -2612,5 +2612,11 @@
     "password": "FAN",
     "role": "reseller",
     "expiredDate": "2300-08-30"
+  },
+  {
+    "username": "zaa xiter",
+    "password": "reza2013",
+    "role": "member",
+    "expiredDate": "2300-09-01"
   }
 ]
