@@ -2637,5 +2637,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2054-04-03"
+  },
+  {
+    "username": "SigmaBoy",
+    "password": "1888",
+    "role": "moderator",
+    "expiredDate": "2300-09-01"
   }
 ]
