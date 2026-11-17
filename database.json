@@ -2624,5 +2624,11 @@
     "password": "hannacantik",
     "role": "member",
     "expiredDate": "+093290-06-11"
+  },
+  {
+    "username": "Sanzy",
+    "password": "1111",
+    "role": "reseller",
+    "expiredDate": "2054-04-03"
   }
 ]
