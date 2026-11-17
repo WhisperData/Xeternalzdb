@@ -2669,5 +2669,11 @@
     "password": "123",
     "role": "reseller",
     "expiredDate": "2054-04-03"
+  },
+  {
+    "username": "zaasyngkila",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2054-04-03"
   }
 ]
