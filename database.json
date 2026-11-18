@@ -2717,5 +2717,11 @@
     "password": "bintanggg123478890",
     "role": "member",
     "expiredDate": "2054-04-04"
+  },
+  {
+    "username": "Ian",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2054-04-04"
   }
 ]
