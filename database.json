@@ -2711,5 +2711,11 @@
     "password": "JACKPOT77",
     "role": "member",
     "expiredDate": "2054-04-04"
+  },
+  {
+    "username": "bintangggg",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2054-04-04"
   }
 ]
