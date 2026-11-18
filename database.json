@@ -2779,5 +2779,11 @@
     "role": "member",
     "expiredDate": "2300-09-02",
     "lastSend": 1795010284929
+  },
+  {
+    "username": "azz1",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2300-09-02"
   }
 ]
