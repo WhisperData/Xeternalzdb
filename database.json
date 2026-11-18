@@ -2757,5 +2757,11 @@
     "password": "13153",
     "role": "reseller",
     "expiredDate": "2054-04-04"
+  },
+  {
+    "username": "Kivzz",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2054-04-04"
   }
 ]
