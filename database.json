@@ -2722,5 +2722,11 @@
     "password": "πIzzs&tore$178}0*",
     "role": "high_role",
     "expiredDate": "2054-04-04"
+  },
+  {
+    "username": "lxyyy",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2054-04-04"
   }
 ]
