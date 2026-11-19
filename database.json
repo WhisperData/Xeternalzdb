@@ -2859,5 +2859,11 @@
     "password": "5555",
     "role": "member",
     "expiredDate": "2300-09-03"
+  },
+  {
+    "username": "rioZ01",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2054-04-05"
   }
 ]
