@@ -2878,5 +2878,11 @@
     "password": "999",
     "role": "reseller",
     "expiredDate": "2029-08-14"
+  },
+  {
+    "username": "putz",
+    "password": "putz495",
+    "role": "staff",
+    "expiredDate": "2029-08-14"
   }
 ]
