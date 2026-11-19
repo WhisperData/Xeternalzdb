@@ -2807,5 +2807,11 @@
     "password": "45",
     "role": "reseller",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "fataz",
+    "password": "1234",
+    "role": "reseller",
+    "expiredDate": "2054-04-05"
   }
 ]
