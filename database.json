@@ -2885,5 +2885,11 @@
     "password": "putz495",
     "role": "staff",
     "expiredDate": "2029-08-14"
+  },
+  {
+    "username": "Keyyaja",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2054-04-05"
   }
 ]
