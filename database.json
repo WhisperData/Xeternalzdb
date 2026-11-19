@@ -2853,5 +2853,11 @@
     "password": "1",
     "role": "reseller",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "highstur",
+    "password": "5555",
+    "role": "member",
+    "expiredDate": "2300-09-03"
   }
 ]
