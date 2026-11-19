@@ -2827,5 +2827,11 @@
     "password": "65",
     "role": "reseller",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "king",
+    "password": "king985",
+    "role": "high_role",
+    "expiredDate": "2054-04-05"
   }
 ]
