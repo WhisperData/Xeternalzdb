@@ -2821,5 +2821,11 @@
     "role": "member",
     "expiredDate": "2300-09-03",
     "lastSend": 1795080842880
+  },
+  {
+    "username": "dokzz",
+    "password": "65",
+    "role": "reseller",
+    "expiredDate": "2054-04-05"
   }
 ]
