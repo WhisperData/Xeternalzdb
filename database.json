@@ -2814,5 +2814,11 @@
     "password": "1234",
     "role": "reseller",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "HndikGbstian",
+    "password": "HendiK2012",
+    "role": "member",
+    "expiredDate": "2300-09-03"
   }
 ]
