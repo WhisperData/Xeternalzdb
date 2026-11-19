@@ -2835,5 +2835,11 @@
     "password": "king985",
     "role": "high_role",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "algeks",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2054-04-05"
   }
 ]
