@@ -2885,5 +2885,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2054-04-05"
+  },
+  {
+    "username": "usus",
+    "password": "usus355",
+    "role": "staff",
+    "expiredDate": "2054-04-06"
   }
 ]
