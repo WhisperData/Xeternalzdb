@@ -2932,5 +2932,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2054-04-07"
+  },
+  {
+    "username": "joreo_kyra1",
+    "password": "joreo_kyra1133",
+    "role": "high_role",
+    "expiredDate": "2029-08-16"
   }
 ]
