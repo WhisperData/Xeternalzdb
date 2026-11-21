@@ -2926,5 +2926,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-08-16"
+  },
+  {
+    "username": "fazxdnotdev",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2054-04-07"
   }
 ]
