@@ -2899,5 +2899,11 @@
     "password": "1234",
     "role": "staff",
     "expiredDate": "2300-09-05"
+  },
+  {
+    "username": "ken ganteng",
+    "password": "ken 123",
+    "role": "member",
+    "expiredDate": "2029-08-16"
   }
 ]
