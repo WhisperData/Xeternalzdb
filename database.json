@@ -2906,5 +2906,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-08-16"
+  },
+  {
+    "username": "Gix",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2054-04-07"
   }
 ]
