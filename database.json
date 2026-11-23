@@ -3000,5 +3000,11 @@
     "password": "jiung201010",
     "role": "member",
     "expiredDate": "2054-04-09"
+  },
+  {
+    "username": "dzikran",
+    "password": "12457",
+    "role": "reseller",
+    "expiredDate": "2054-04-09"
   }
 ]
