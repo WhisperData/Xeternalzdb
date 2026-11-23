@@ -3012,5 +3012,11 @@
     "password": "1",
     "role": "reseller",
     "expiredDate": "2029-08-18"
+  },
+  {
+    "username": "sevz crash",
+    "password": "sevz crash202",
+    "role": "staff",
+    "expiredDate": "2054-04-09"
   }
 ]
