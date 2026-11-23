@@ -2982,5 +2982,11 @@
     "password": "12345678910",
     "role": "reseller",
     "expiredDate": "2054-04-09"
+  },
+  {
+    "username": "Balzz",
+    "password": "Balzz986",
+    "role": "owner",
+    "expiredDate": "2029-08-18"
   }
 ]
