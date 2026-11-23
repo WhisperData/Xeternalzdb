@@ -2988,5 +2988,11 @@
     "password": "Balzz986",
     "role": "owner",
     "expiredDate": "2029-08-18"
+  },
+  {
+    "username": "Nuxzy15",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2054-04-09"
   }
 ]
