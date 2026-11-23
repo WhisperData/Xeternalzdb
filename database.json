@@ -3006,5 +3006,11 @@
     "password": "12457",
     "role": "reseller",
     "expiredDate": "2054-04-09"
+  },
+  {
+    "username": "well",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2029-08-18"
   }
 ]
